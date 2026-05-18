@@ -95,5 +95,6 @@ Contributions are welcome. Feel free to fork the repository and submit pull requ
 
 **Prajyot Pimpale**
 
-GitHub: [https://github.com/](https://github.com/)
+GitHub: [https://github.com/](https://github.com/prajyot-pimpale)
+
 Email: pimpaleprajyot@gmail.com

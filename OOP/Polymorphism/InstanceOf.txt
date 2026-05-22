@@ -1,0 +1,22 @@
+Animal a  = new Dog();
+Dog    d  = new Dog();
+Cat    c  = new Cat();
+
+System.out.println(a instanceof Animal);  // true
+System.out.println(a instanceof Dog);     // true
+System.out.println(a instanceof Cat);     // false
+
+System.out.println(d instanceof Animal);  // true  ← child is also Animal
+System.out.println(c instanceof Dog);     // false
+
+
+// Practical use — safe downcasting
+Animal[] animals = {new Dog(), new Cat(), new Cow()};
+
+for (Animal animal : animals) {
+    if (animal instanceof Dog) {
+        ((Dog) animal).bark();
+    } else if (animal instanceof Cat) {
+        ((Cat) animal).meow();
+    }
+}

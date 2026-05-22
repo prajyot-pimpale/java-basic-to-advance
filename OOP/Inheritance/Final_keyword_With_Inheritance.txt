@@ -1,0 +1,17 @@
+// final class → cannot be extended
+final class Secure {
+    void show() { System.out.println("Secure class"); }
+}
+
+// class Child extends Secure { }  ← ERROR ❌
+
+// final method → cannot be overridden
+class Parent {
+    final void show() {
+        System.out.println("Parent show");
+    }
+}
+
+class Child extends Parent {
+    // void show() { }  ← ERROR ❌ cannot override final method
+}

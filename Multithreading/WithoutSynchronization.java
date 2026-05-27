@@ -1,0 +1,30 @@
+// WITHOUT synchronization — PROBLEM
+class Counter {
+    int count = 0;
+
+    void increment() {
+        count++;  // not thread-safe!
+    }
+}
+
+public class WithoutSynchronization {
+    public static void main(String[] args) throws InterruptedException {
+
+        Counter c = new Counter();
+
+        Thread t1 = new Thread(() -> {
+            for (int i = 0; i < 1000; i++) c.increment();
+        });
+
+        Thread t2 = new Thread(() -> {
+            for (int i = 0; i < 1000; i++) c.increment();
+        });
+
+        t1.start(); t2.start();
+        t1.join();  t2.join();
+
+        System.out.println("Count: " + c.count);
+        // Expected: 2000  Actual: random (less than 2000) ← RACE CONDITION ❌
+    }
+}
+

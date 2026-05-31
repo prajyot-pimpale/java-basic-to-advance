@@ -1,4 +1,3 @@
-```md
 # 🚀 Java Mini Projects
 
 This folder contains links to mini projects created during my Java learning journey.
@@ -43,4 +42,3 @@ These mini projects are created for:
 ---
 
 ⭐ If you like these projects, consider giving the repositories a star.
-```

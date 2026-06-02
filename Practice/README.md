@@ -7,7 +7,7 @@
 ```
 Basics:
   01. Swap without temp ✅
-  02. Armstrong number       
+  02. Armstrong number ✅     
   03. Fibonacci (recursion)
   04. Prime check
   05. Factorial (recursion)

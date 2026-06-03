@@ -9,9 +9,9 @@ Basics:
   01. Swap without temp ✅
   02. Armstrong number ✅     
   03. Fibonacci (recursion) ✅
-  04. Prime check
-  05. Factorial (recursion)
-  06. Reverse number
+  04. Prime check ✅
+  05. Factorial (recursion) ✅
+  06. Reverse number ✅
   07. Palindrome number
   08. Sum of digits
   09. Multiplication table

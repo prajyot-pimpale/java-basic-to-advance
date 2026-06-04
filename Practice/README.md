@@ -12,9 +12,9 @@ Basics:
   04. Prime check ✅
   05. Factorial (recursion) ✅
   06. Reverse number ✅
-  07. Palindrome number
-  08. Sum of digits
-  09. Multiplication table
+  07. Palindrome number ✅
+  08. Sum of digits ✅
+  09. Multiplication table ✅
   10. GCD & LCM
 
 Arrays:

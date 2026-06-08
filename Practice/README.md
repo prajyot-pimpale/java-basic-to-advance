@@ -15,13 +15,13 @@ Basics:
   07. Palindrome number ✅
   08. Sum of digits ✅
   09. Multiplication table ✅
-  10. GCD & LCM
+  10. GCD & LCM ✅
 
 Arrays:
-  11. Max & Min
-  12. Reverse array
-  13. Remove duplicates
-  14. Bubble sort
+  11. Max & Min ✅
+  12. Reverse array ✅
+  13. Remove duplicates ✅
+  14. Bubble sort ✅
   15. Matrix multiplication
 
 Strings:

@@ -22,7 +22,7 @@ Arrays:
   12. Reverse array ✅
   13. Remove duplicates ✅
   14. Bubble sort ✅
-  15. Matrix multiplication
+  15. Matrix multiplication ✅
 
 Strings:
   16. Reverse string

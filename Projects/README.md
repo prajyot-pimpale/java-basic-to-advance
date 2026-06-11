@@ -12,9 +12,9 @@ Each project is available in a separate repository inside the `java-mini-project
 |----------|-------------|------|
 | 🎓 Student Management System | Manage students, marks, grades, search, and statistics | [Open Project](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/student-management-system) |
 | 🏦 Bank Account System | Banking operations like deposit, withdraw, and transfer | [Open Project](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/bank-account-system) |
-<!-- | 📚 Library Management System | Book issue/return system with library statistics | [Open Project](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/library-management-system) |
-| ❓ Quiz Application | Console-based Java quiz application | [Open Project](https://github.com/prajyot-pimpale/quiz-application) |-->
+| ❓ Quiz Application | Console-based Java quiz application | [Open Project](https://github.com/prajyot-pimpale/quiz-application) |
 | 🧮 Scientific Calculator | Scientific calculator with advanced math operations | [Open Project](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/scientific-calculator) |
+<!-- | 📚 Library Management System | Book issue/return system with library statistics | [Open Project](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/library-management-system) | -->
 
 ---
 

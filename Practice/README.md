@@ -27,7 +27,7 @@ Arrays:
 Strings:
   16. Reverse string ✅
   17. Palindrome string ✅
-  18. Count vowels/consonants
+  18. Count vowels/consonants ✅
   19. Count words
   20. Anagram check
   21. Most frequent char

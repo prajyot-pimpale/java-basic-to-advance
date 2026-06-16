@@ -29,7 +29,7 @@ Strings:
   17. Palindrome string ✅
   18. Count vowels/consonants ✅
   19. Count words ✅
-  20. Anagram check
+  20. Anagram check ✅
   21. Most frequent char
   22. Remove duplicate chars
 

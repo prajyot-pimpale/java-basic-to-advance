@@ -31,7 +31,7 @@ Strings:
   19. Count words                 ✅  
   20. Anagram check               ✅  
   21. Most frequent char          ✅
-  22. Remove duplicate chars      ⏳
+  22. Remove duplicate chars      ✅
 
 OOP:  
   23. Shape area (polymorphism)   ⏳

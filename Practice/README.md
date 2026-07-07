@@ -34,9 +34,9 @@ Strings:
   22. Remove duplicate chars      ✅
 
 OOP:  
-  23. Shape area (polymorphism)   ⏳
-  24. Multiple interfaces         ⏳
-  25. Singleton pattern           ⏳
+  23. Shape area (polymorphism)   ✅
+  24. Multiple interfaces         ✅
+  25. Singleton pattern           ✅
 
 Streams & Collections:  
   26. Word frequency              ⏳

@@ -39,9 +39,9 @@ OOP:
   25. Singleton pattern           ✅
 
 Streams & Collections:  
-  26. Word frequency              ⏳
-  27. Group by first letter       ⏳    
-  28. Second largest              ⏳
+  26. Word frequency              ✅
+  27. Group by first letter       ✅    
+  28. Second largest              ✅
   29. Partition pass/fail         ⏳
   30. FlatMap                     ⏳  
 

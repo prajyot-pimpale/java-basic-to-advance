@@ -42,11 +42,11 @@ Streams & Collections:
   26. Word frequency              ✅
   27. Group by first letter       ✅    
   28. Second largest              ✅
-  29. Partition pass/fail         ⏳
-  30. FlatMap                     ⏳  
+  29. Partition pass/fail         ✅
+  30. FlatMap                     ✅  
 
 Exception & File: 
-  31. Custom exception            ⏳
+  31. Custom exception            ✅
   32. Write & read file           ⏳
   33. Count lines in file         ⏳
 

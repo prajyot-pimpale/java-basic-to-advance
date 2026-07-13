@@ -47,11 +47,11 @@ Streams & Collections:
 
 Exception & File: 
   31. Custom exception            ✅
-  32. Write & read file           ⏳
-  33. Count lines in file         ⏳
+  32. Write & read file           ✅
+  33. Count lines in file         ✅
 
 Lambda & Functional:  
-  34. Sort by multiple fields     ⏳
+  34. Sort by multiple fields     ✅
   35. Chain predicates            ⏳
   36. Capitalize list             ⏳
   37. Optional chain              ⏳

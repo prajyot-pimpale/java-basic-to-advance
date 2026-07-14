@@ -52,8 +52,8 @@ Exception & File:
 
 Lambda & Functional:  
   34. Sort by multiple fields     ✅
-  35. Chain predicates            ⏳
-  36. Capitalize list             ⏳
-  37. Optional chain              ⏳
+  35. Chain predicates            ✅
+  36. Capitalize list             ✅
+  37. Optional chain              ✅
 ```
 
